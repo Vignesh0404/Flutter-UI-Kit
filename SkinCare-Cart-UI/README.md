@@ -18,9 +18,9 @@ Visit the dribble screen at<a href="https://dribbble.com/shots/15518361-Skincare
      <td>Results Page</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Vignesh0404/Cart-Payment-UI/blob/main/ouput/1.jpeg" width=300 height=600></td>
-    <td><img src="https://github.com/Vignesh0404/Cart-Payment-UI/blob/main/ouput/2.jpeg" width=270 height=600></td>
-    <td><img src="https://github.com/Vignesh0404/Cart-Payment-UI/blob/main/ouput/3.jpeg" width=270 height=600></td>
+    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/SkinCare-Cart-UI/ouput/1.jpeg" width=300 height=600></td>
+    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/SkinCare-Cart-UI/ouput/2.jpeg" width=270 height=600></td>
+    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/SkinCare-Cart-UI/ouput/3.jpeg" width=270 height=600></td>
   </tr>
  </table>
  <br>
