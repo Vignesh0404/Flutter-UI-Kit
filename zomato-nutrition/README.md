@@ -14,14 +14,14 @@ by Dharmesh Nayak</a>.
 ## Screenshots of the work (Click on the image to see the full resolution image)
 <table>
   <tr>
-    <td>Home Page</td>
-     <td>Nav Bar</td>
-     <td>Results Page</td>
+    <td>Menu Page</td>
+     <td>View More</td>
+     <td>Home Page</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/zomato_nutrition/output/2.jpeg" width=300 height=600></td>
-    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/zomato_nutrition/output/3.jpeg" width=270 height=600></td>
-    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/zomato_nutrition/output/1.jpeg" width=270 height=600></td>
+    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/zomato-nutrition/output/2.jpeg" width=300 height=600></td>
+    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/zomato-nutrition/output/3.jpeg" width=270 height=600></td>
+    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/zomato-nutrition/output/1.jpeg" width=270 height=600></td>
   </tr>
  </table>
  <br>
