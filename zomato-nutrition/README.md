@@ -5,7 +5,7 @@
 
 <br>
 
-# UI Credits 
+# UI Credits
 
 Visit the dribble screen at<a href="https://dribbble.com/shots/15776537-Zomato-Nutrition/attachments/7583947?mode=media"> Zomato Nutrition
 by Dharmesh Nayak</a>.
