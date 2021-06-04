@@ -1,0 +1,4 @@
+#Fri Jun 04 18:04:44 IST 2021
+base.0=/home/vignesh/Documents/Projects/Foodzo-Lunchman-Flutter-UI/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
