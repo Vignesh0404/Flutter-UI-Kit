@@ -20,9 +20,9 @@ by 𝐄𝐡𝐬𝐚𝐧 𝐌𝐨𝐢𝐧
      <td>History ScreenScreen</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/sendfax/ouput/3.jpeg" width=300 height=600></td>
-    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/sendfax/ouput/2.jpeg" width=270 height=600></td>
-    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/sendfax/ouput/1.jpeg" width=270 height=600></td>
+    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/send-fax/ouput/3.jpeg" width=300 height=600></td>
+    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/send-fax/ouput/2.jpeg" width=270 height=600></td>
+    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/send-fax/ouput/1.jpeg" width=270 height=600></td>
   </tr>
  </table>
  <br>
