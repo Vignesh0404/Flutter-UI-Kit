@@ -5,7 +5,7 @@
 
 <br>
 
-# UI Credits  
+# UI Credits   
 
 Visit the dribble screen at<a href="https://dribbble.com/shots/15020034-Scan-and-Fax-Apps"> Scan and Fax Apps
 by 𝐄𝐡𝐬𝐚𝐧 𝐌𝐨𝐢𝐧
