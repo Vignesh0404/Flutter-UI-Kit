@@ -7,7 +7,7 @@
 
 # Twitch Clone  
 
-Visit the twitch brand at<a href="https://brand.twitch.tv/brand/"> here</a>.
+Visit the twitch brand <a href="https://brand.twitch.tv/brand/"> here</a>.
 
 
 ## Screenshots of the work (Click on the image to see the full resolution image)
