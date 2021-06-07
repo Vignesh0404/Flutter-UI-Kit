@@ -1,8 +1,17 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:twitch/account.dart';
 import 'package:twitch/home.dart';
+import 'package:twitch/splashScreen.dart';
+
+import 'browse.dart';
+import 'detailedView.dart';
 
 void main() {
+  SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(
+    systemNavigationBarColor: Colors.white,
+    statusBarColor: Colors.white,
+  ));
   runApp(MyApp());
 }
 
@@ -26,7 +35,7 @@ class MyApp extends StatelessWidget {
         fontFamily: 'Roboto',
       ),
       debugShowCheckedModeBanner: false,
-      home: Account(),
+      home: Browse(),
     );
   }
 }
