@@ -5,7 +5,7 @@
 
 <br>
 
-# Hospital App  
+# Dashboard 
 
 Visit the UI <a href="https://dribbble.com/shots/15774046-Nexudus-Corporate-VC-Dashboards"> Corporate & VC Dashboards by
 Anna Meleshina</a>.
