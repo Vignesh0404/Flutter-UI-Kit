@@ -7,7 +7,7 @@
 
 # UI Credits    
 
-Visit the club house brand<a href="https://dribbble.com/shots/8616899-Tik-Tok-Redesign"> Tik Tok Redesign
+Visit the UI at<a href="https://dribbble.com/shots/8616899-Tik-Tok-Redesign"> Tik Tok Redesign
 Pop Daniel M.
 </a>.
 
