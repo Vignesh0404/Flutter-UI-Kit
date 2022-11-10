@@ -14,9 +14,9 @@
      <td>Results Page</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/skinCare-Cart/ouput/1.jpeg" width=300 height=600></td>
-    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/skinCare-Cart/ouput/2.jpeg" width=270 height=600></td>
-    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/skinCare-Cart/ouput/3.jpeg" width=270 height=600></td>
+    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/3-skinCare-Cart/ouput/1.jpeg" width=300 height=600></td>
+    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/3-skinCare-Cart/ouput/2.jpeg" width=270 height=600></td>
+    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/3-skinCare-Cart/ouput/3.jpeg" width=270 height=600></td>
   </tr>
  </table>
  <br>

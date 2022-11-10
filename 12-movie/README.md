@@ -15,8 +15,8 @@
      
   </tr>
   <tr>
-    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/movie/outputs/WhatsApp%20Image%202021-06-14%20at%203.44.50%20AM%20(1).jpeg" width=300 height=650></td>
-    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/movie/outputs/WhatsApp%20Image%202021-06-14%20at%203.44.50%20AM.jpeg" width=300 height=650></td>
+    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/12-movie/outputs/WhatsApp%20Image%202021-06-14%20at%203.44.50%20AM%20(1).jpeg" width=300 height=650></td>
+    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/12-movie/outputs/WhatsApp%20Image%202021-06-14%20at%203.44.50%20AM.jpeg" width=300 height=650></td>
     
   </tr>
  </table>

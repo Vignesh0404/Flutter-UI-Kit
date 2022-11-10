@@ -16,9 +16,9 @@
      
   </tr>
   <tr>
-    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/ecommerce/output/3.jpeg" width=300 height=650></td>
-    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/ecommerce/output/1.jpeg" width=300 height=650></td>
-    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/ecommerce/output/2.jpeg" width=300 height=650></td>
+    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/24-ecommerce/output/3.jpeg" width=300 height=650></td>
+    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/24-ecommerce/output/1.jpeg" width=300 height=650></td>
+    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/24-ecommerce/output/2.jpeg" width=300 height=650></td>
     
   </tr>
  </table>

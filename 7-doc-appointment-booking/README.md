@@ -14,9 +14,9 @@
      <td>Booking Confirm Screen</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/doc-appointment-booking/outputs/1.jpeg" width=300 height=600></td>
-    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/doc-appointment-booking/outputs/2.jpg" width=270 height=600></td>
-    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/doc-appointment-booking/outputs/3.jpeg" width=270 height=600></td>
+    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/7-doc-appointment-booking/outputs/1.jpeg" width=300 height=600></td>
+    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/7-doc-appointment-booking/outputs/2.jpg" width=270 height=600></td>
+    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/7-doc-appointment-booking/outputs/3.jpeg" width=270 height=600></td>
   </tr>
  </table>
  <br>

@@ -8,7 +8,7 @@
 ## Screenshots of the work (Click on the image to see the full resolution image)
 
 <h1 align="center">
-  <img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/dashboard/1.jpeg"   width=300 height=600>
+  <img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/9-dashboard/1.jpeg"   width=300 height=600>
 </h1>
  
 <br>

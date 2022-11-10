@@ -14,8 +14,8 @@
      
   </tr>
   <tr>
-    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/welcome-pages/output/2.jpeg" width=300 height=650></td>
-    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/welcome-pages/output/1.jpeg" width=300 height=650></td>
+    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/21-welcome-pages/output/2.jpeg" width=300 height=650></td>
+    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/21-welcome-pages/output/1.jpeg" width=300 height=650></td>
     
   </tr>
  </table>

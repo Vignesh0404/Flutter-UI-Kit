@@ -14,8 +14,8 @@
      
   </tr>
   <tr>
-    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/tinder/output/2.gif" width=300 height=650></td>
-    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/tinder/output/1.jpeg" width=300 height=650></td>
+    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/27-tinder/output/2.gif" width=300 height=650></td>
+    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/27-tinder/output/1.jpeg" width=300 height=650></td>
     
   </tr>
  </table>
