@@ -5,6 +5,12 @@
 
 <br>
 
+## UI Credits
+
+Visit the dribble screen at <a href="https://dribbble.com/shots/14630772/attachments/6324589?mode=media"> here</a>.
+
+<br>
+
 
 ## Screenshots of the work (Click on the image to see the full resolution image)
 
