@@ -5,6 +5,12 @@
 
 <br>
 
+## UI Credits
+
+Visit the dribble screen at <a href="https://dribbble.com/shots/8616899-Tik-Tok-Redesign"> Tik Tok Redesign Pop Daniel M</a>.
+
+<br>
+
 ## Screenshots of the work (Click on the image to see the full resolution image)
 
 <table align="center">
