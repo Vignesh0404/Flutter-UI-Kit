@@ -5,6 +5,10 @@
 
 <br>
 
+## UI Credits
+
+Visit the dribble screen at <a href="https://dribbble.com/shots/14360346-Money-Management-App"> Money Management App by Zaka Fadhulla</a>.
+
 
 ## Screenshots of the work (Click on the image to see the full resolution image)
 
