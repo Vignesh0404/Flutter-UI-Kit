@@ -8,6 +8,12 @@
 
 ## Screenshots of the work (Click on the image to see the full resolution image)
 
+## UI Credits
+
+Visit the dribble screen at <a href="https://dribbble.com/shots/5709530-Books-App-Audio-Book-and-Author-Profile-Concept"> here</a>.
+
+<br>
+
 <table align="center">
   <tr>
     <td>Artist screen</td>
@@ -15,8 +21,8 @@
      
   </tr>
   <tr>
-    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/book-app/26-output/2.jpeg" width=300 height=650></td>
-    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/book-app/26-output/1.jpeg" width=300 height=650></td>
+    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/26-book-app/output/2.jpeg" width=300 height=650></td>
+    <td><img src="https://github.com/Vignesh0404/Flutter-UI-Kit/blob/main/26-book-app/output/1.jpeg" width=300 height=650></td>
     
   </tr>
  </table>
