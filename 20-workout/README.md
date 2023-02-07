@@ -5,6 +5,12 @@
 
 <br>
 
+## UI Credits
+
+Visit the dribble screen at <a href="https://dribbble.com/shots/14813508-Workout-Plans-App-UI/attachments/6521272?mode=media"> Workout Plans App UI</a>.
+
+<br>
+
 ## Screenshots of the work (Click on the image to see the full resolution image)
 <table>
   <tr>
