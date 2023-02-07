@@ -4,6 +4,12 @@
 </p>
 
 <br>
+
+## UI Credits
+
+Visit the dribble screen at <a href="https://dribbble.com/shots/15518361-Skincare-Mobile-Apps-Last-Flow"> here</a>.
+
+<br>
  
 
 ## Screenshots of the work (Click on the image to see the full resolution image)
