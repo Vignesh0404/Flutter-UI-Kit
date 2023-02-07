@@ -5,6 +5,9 @@
 
 <br>
 
+## UI Credits
+
+Visit the dribble screen at <a href="https://dribbble.com/shots/14976792--Exploration-Skateboard-Video-Platform-Mobile-App"> Skateboard Video Platform by Dwinawan</a>.
 
 ## Screenshots of the work (Click on the image to see the full resolution image)
 
