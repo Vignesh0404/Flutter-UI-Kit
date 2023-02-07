@@ -5,6 +5,10 @@
 
 <br>
 
+## UI Credits
+
+Visit the dribble screen at <a href="https://dribbble.com/shots/15849692-Qandro-Homepage-Responsive-2021p"> Qandro by Turja Sen Das Partho</a>.
+
 
 ## Screenshots of the work (Click on the image to see the full resolution image)
 
