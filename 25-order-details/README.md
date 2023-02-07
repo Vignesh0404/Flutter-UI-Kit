@@ -4,7 +4,11 @@
 </p>
 
 <br>
+## UI Credits
 
+Visit the dribble screen at <a href="https://dribbble.com/shots/12093567-Order-and-Order-Detail-Page"> here</a>.
+
+<br>
 
 ## Screenshots of the work (Click on the image to see the full resolution image)
 
