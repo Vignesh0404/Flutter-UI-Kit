@@ -5,6 +5,10 @@
 
 <br>
 
+## UI Credits
+
+Visit the dribble screen at <a href="https://dribbble.com/shots/15458358-App-Ui"> here</a>.
+
 
 ## Screenshots of the work (Click on the image to see the full resolution image)
 <table>
