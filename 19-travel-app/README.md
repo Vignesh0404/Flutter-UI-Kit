@@ -5,6 +5,12 @@
 
 <br>
 
+## UI Credits
+
+Visit the dribble screen at <a href="https://dribbble.com/shots/14099247-Travel-Mobile-App-UX-UI-Design"> Travel Mobile App UX UI Design</a>.
+
+<br>
+
 ## Screenshots of the work (Click on the image to see the full resolution image)
 
 <table align="center">
