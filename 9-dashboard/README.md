@@ -5,6 +5,13 @@
 
 <br>
 
+
+## UI Credits
+
+Visit the dribble screen at <a href="https://dribbble.com/shots/15774046-Nexudus-Corporate-VC-Dashboards"> here</a>.
+
+<br>
+
 ## Screenshots of the work (Click on the image to see the full resolution image)
 
 <h1 align="center">
