@@ -5,6 +5,12 @@
 
 <br>
 
+## UI Credits
+
+Visit the dribble screen at <a href="https://dribbble.com/shots/15881886-Elegant-Messenger-App"> Elegant Messenger App by arsyah</a>.
+
+<br>
+
 ## Screenshots of the work (Click on the image to see the full resolution image)
 
 <table align="center">
