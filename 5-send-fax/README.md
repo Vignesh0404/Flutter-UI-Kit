@@ -5,6 +5,12 @@
 
 <br>
 
+## UI Credits
+
+Visit the dribble screen at <a href="https://dribbble.com/shots/15020034-Scan-and-Fax-Apps"> here</a>.
+
+<br>
+
 ## Screenshots of the work (Click on the image to see the full resolution image)
 <table>
   <tr>
