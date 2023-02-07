@@ -5,6 +5,11 @@
 
 <br>
 
+## UI Credits
+
+Visit the dribble screen at <a href="https://dribbble.com/shots/14132859-Hover3d-js"> Hover3d.js by Oleg Frolov</a> .
+
+<br>
 
 ## Screenshots of the work (Click on the image to see the full resolution image)
 
