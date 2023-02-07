@@ -7,7 +7,7 @@
 
 ## UI Credits
 
-Visit the dribble screen at <a href="https://dribbble.com/shots/14976792--Exploration-Skateboard-Video-Platform-Mobile-App"> Skateboard Video Platform by Dwinawan</a>.
+Visit the dribble screen at <a href="https://dribbble.com/shots/11432145-Most-Popular-Video-Streaming-App-Netflix"> here</a>.
 
 ## Screenshots of the work (Click on the image to see the full resolution image)
 
