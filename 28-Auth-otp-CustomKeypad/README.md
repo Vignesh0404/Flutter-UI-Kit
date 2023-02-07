@@ -5,6 +5,12 @@
 
 <br>
 
+## UI Credits
+
+Visit the dribble screen at <a href="https://dribbble.com/shots/11622676-Phone-Verification"> Phone Verification by Sahil Vhora</a>.
+
+<br>
+
 
 ## Screenshots of the work (Click on the image to see the full resolution image)
 
